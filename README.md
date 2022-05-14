@@ -39,8 +39,8 @@
 ### Bull Market
 [![Bull Market](images/bull-market.png)](BullMarket.haz)
 
-### Donut
-[![Donut](images/donut.png)](Donut.haz)
+### Honey
+[![Honey](images/honey.png)](Honey.haz)
 
 ## License
 MIT
