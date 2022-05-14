@@ -26,6 +26,9 @@
 ## Bait
 [![Bait](images/bait.png)](Bait.haz)
 
+## Slalom
+[![Slalom](images/slalom.png)](Slalom.haz)
+
 ## Symmetrical (Mostly)
 ### Eight
 [![Eight](images/eight.png)](Eight.haz)
