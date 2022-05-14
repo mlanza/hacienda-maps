@@ -23,6 +23,9 @@
 ## Divide
 [![Divide](images/divide.png)](Divide.haz)
 
+## Bait
+[![Bait](images/bait.png)](Bait.haz)
+
 ## Symmetrical (Mostly)
 ### Eight
 [![Eight](images/eight.png)](Eight.haz)
