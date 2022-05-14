@@ -36,6 +36,9 @@
 ### Treasure Map
 [![Treasure Map](images/treasure-map.png)](TreasureMap.haz)
 
+### Bull Market
+[![Bull Market](images/bull-market.png)](BullMarket.haz)
+
 ### Donut
 [![Donut](images/donut.png)](Donut.haz)
 
