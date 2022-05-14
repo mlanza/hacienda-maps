@@ -20,8 +20,8 @@
 ## Bridge
 [![Bridge](images/bridge.png)](Bridge.haz)
 
-## Divide
-[![Divide](images/divide.png)](Divide.haz)
+## Peas and Carrots
+[![Peas and Carrots](images/peas-and-carrots.png)](PeasAndCarrots.haz)
 
 ## Bait
 [![Bait](images/bait.png)](Bait.haz)
