@@ -8,9 +8,6 @@
 ### Bryce
 ![Bryce](images/bryce.png)
 
-### Candy
-![Candy](images/candy.png)
-
 ### Four Kingdoms
 ![Four Kingdoms](images/four-kingdoms.png)
 
@@ -20,9 +17,12 @@
 ## Twofer
 ![Twofer](images/twofer.png)
 
-## Symmetrical
+## Symmetrical (Mostly)
 ### Eight
 ![Eight](images/eight.png)
+
+### Candy
+![Candy](images/candy.png)
 
 ### Everest
 ![Everest](images/everest.png)
