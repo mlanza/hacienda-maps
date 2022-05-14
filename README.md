@@ -33,6 +33,9 @@
 ### Everest
 ![Everest](images/everest.png)
 
+### Treasure Map
+[![Treasure Map](images/treasure-map.png)](images/treasure-map.png)
+
 ### Donut
 ![Donut](images/donut.png)
 
