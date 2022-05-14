@@ -3,41 +3,41 @@
 
 ## Asymmetrical
 ### Fjords
-![Fjords](images/fjords.png)
+[![Fjords](images/fjords.png)](Fjords.haz)
 
 ### Bryce
-![Bryce](images/bryce.png)
+[![Bryce](images/bryce.png)](Bryce.haz)
 
 ### Four Kingdoms
-![Four Kingdoms](images/four-kingdoms.png)
+[![Four Kingdoms](images/four-kingdoms.png)](FourKingdoms.haz)
 
 ### Cinco
-![Cinco](images/cinco.png)
+[![Cinco](images/cinco.png)](Cinco.haz)
 
 ## Twofer
-![Twofer](images/twofer.png)
+[![Twofer](images/twofer.png)](Twofer.haz)
 
 ## Bridge
-![Bridge](images/bridge.png)
+[![Bridge](images/bridge.png)](Bridge.haz)
 
 ## Divide
-![Divide](images/divide.png)
+[![Divide](images/divide.png)](Divide.haz)
 
 ## Symmetrical (Mostly)
 ### Eight
-![Eight](images/eight.png)
+[![Eight](images/eight.png)](Eight.haz)
 
 ### Candy
-![Candy](images/candy.png)
+[![Candy](images/candy.png)](Candy.haz)
 
 ### Everest
-![Everest](images/everest.png)
+[![Everest](images/everest.png)](Everest.haz)
 
 ### Treasure Map
-[![Treasure Map](images/treasure-map.png)](images/treasure-map.png)
+[![Treasure Map](images/treasure-map.png)](TreasureMap.haz)
 
 ### Donut
-![Donut](images/donut.png)
+[![Donut](images/donut.png)](Donut.haz)
 
 ## License
 MIT
