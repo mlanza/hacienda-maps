@@ -25,7 +25,7 @@
 ## Twofer
 ![Twofer](images/twofer.png)
 
-## Twofer
+## Donut
 ![Donut](images/donut.png)
 
 ## License
