@@ -10,5 +10,20 @@
 ## Bryce
 ![Bryce](images/bryce.png)
 
+## Candy
+![Candy](images/candy.png)
+
+## Four Kingdoms
+![Four Kingdoms](images/four-kingdoms.png)
+
+## Cinco
+![Cinco](images/cinco.png)
+
+## Everest
+![Everest](images/everest.png)
+
+## Twofer
+![Twofer](images/twofer.png)
+
 ## License
 MIT
