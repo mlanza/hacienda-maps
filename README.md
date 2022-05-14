@@ -20,6 +20,9 @@
 ## Bridge
 ![Bridge](images/bridge.png)
 
+## Divide
+![Divide](images/divide.png)
+
 ## Symmetrical (Mostly)
 ### Eight
 ![Eight](images/eight.png)
