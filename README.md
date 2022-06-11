@@ -43,7 +43,7 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ## Bonanza
 [![Bonanza](images/bonanza.png)](Bonanza.haz)
 
-## Symmetrical (Mostly)
+## Semi-Symmetrical
 ### Eight
 [![Eight](images/eight.png)](Eight.haz)
 
