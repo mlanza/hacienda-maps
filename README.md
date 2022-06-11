@@ -3,11 +3,11 @@
 
 Look at each map and you can get a sense of the preferred player count.  Just ask, if this were played with `n` players would I feel okay if I were going last?  In the more symmetrical maps it's usually more of a question of whether the player count should be even rather than odd.  Use your judgment.
 
-In each map I explored different ideas.  I won't attempt to explain each since discovery is part of the fun, but suffice to say, a few plays will give you a sense of what its challenges are and whether one needs an unusual strategy.  In some instances the tile may offer a clue.
+In each map I explored different ideas.  I won't attempt to explain each since discovery is part of the fun, but suffice to say, a few plays will give you a sense of what its challenges are and whether one needs an unusual strategy.  In some instances the title may offer a clue.
 
 In Peas & Carrots, as an example, and since most maps use heterogeneous areas, I wanted to explore the difficulty of building a position among homogeneous patches of terrain.
 
-In some of my earlier maps (i.e. Fjords) I made the pampas channels too narrow making the placement of watering holes difficult.  The maps still work but they offer a different kind of play.  In later maps, I expanded the pampas areas to make them useful again.
+In some of my earlier maps (i.e. Fjords) I made the pampas channels too narrow for placing watering holes.  The maps work but they offer a different kind of play.  In later maps, I loosened the pampas areas to make water useful again.
 
 ## Asymmetrical
 ### Fjords
