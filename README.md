@@ -1,9 +1,9 @@
 # Hacienda Maps
 [Hacienda](https://boardgamegeek.com/boardgame/19100/hacienda) is a boardgame by Wolfgang Kramer.  It can be played on [Yucata](https://www.yucata.de/en) with custom maps.  These maps are custom crafted and available for your repeated exploration, if you enjoy the unique challenge any one presents.
 
-Look at each map and you can get a sense of the preferred player count.  Just ask, if this were played with `n` players would I feel okay if I were going last?  In the more symmetrical maps it's usually more of a question of whether the player count should be even.  Use your judgment.
+Look at each map and you can get a sense of the preferred player count.  Just ask, if this were played with `n` players would I feel okay if I were going last?  In the more symmetrical maps it's usually more of a question of whether the player count should be even rather than odd.  Use your judgment.
 
-In each map I explored different ideas.  I won't attempt to explain each since discovery is part of the fun, but suffice to say, exploring the map with a few plays will give you a sense of what its challenges are and whether one needs to pursue an unusual strategy.
+In each map I explored different ideas.  I won't attempt to explain each since discovery is part of the fun, but suffice to say, a few plays will give you a sense of what its challenges are and whether one needs an unusual strategy.  In some instances the tile may offer a clue.
 
 In Peas & Carrots, as an example, and since most maps use heterogeneous areas, I wanted to explore the difficulty of building a position among homogeneous patches of terrain.
 
