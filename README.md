@@ -3,7 +3,7 @@
 
 Look at each map and you can get a sense of the preferred player count.  Just ask, if this were played with `n` players would I feel okay if I were going last?  In the more symmetrical maps it's usually more of a question of whether the player count should be even rather than odd.  Use your judgment.
 
-In each map I explored different ideas.  I won't attempt to explain each since discovery is part of the fun, but suffice to say, a few plays will give you a sense of what its challenges are and whether one needs an unusual strategy.  In some instances the title may offer a clue.
+In each map I explored different ideas.  I won't attempt to explain each since discovery is part of the fun, but suffice to say, a few plays will give you a sense of what its challenges are and whether one needs an unusual strategy.  In some instances the title may offer a clue.  In lots of instances there are notable hot spots or magnets, just begging you to claim them.
 
 In Peas & Carrots, as an example, and since most maps use heterogeneous areas, I wanted to explore the difficulty of building a position among homogeneous patches of terrain.
 
