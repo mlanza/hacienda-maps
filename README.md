@@ -62,6 +62,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Honey
 [![Honey](images/honey.png)](Honey.haz)
 
+### Asteroids
+[![Asteroids](images/asteroids.png)](Asteroids.haz)
+
 ## Duel
 [![Duel](images/duel.png)](Duel.haz)
 
