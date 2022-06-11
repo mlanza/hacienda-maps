@@ -1,13 +1,13 @@
 # Hacienda Maps
-[Hacienda](https://boardgamegeek.com/boardgame/19100/hacienda) is a boardgame by Wolfgang Kramer.  It can be played on [Yucata](https://www.yucata.de/en) with custom maps.  These maps are custom crafted and available for your repeated exploration, if you enjoy the unique challenge any one presents.
+[Hacienda](https://boardgamegeek.com/boardgame/19100/hacienda) is a boardgame by Wolfgang Kramer.  It can be played on [Yucata](https://www.yucata.de/en) with custom maps.  These maps are custom crafted around unique challenges and available for your repeated exploration.
 
-Look at each map and you can get a sense of the preferred player count.  Just ask, if this were played with `n` players would I feel okay if I were going last?  In the more symmetrical maps it's usually more of a question of whether the player count should be even rather than odd.  Use your judgment.
+Looking at each map you will get a sense of good player counts.  Just ask, if this were played with `n` players how would I feel if I were player `n`?  In the symmetrical maps it's a matter of whether the map is suitable for odd player counts.  Use your judgment.
 
-In each map I explored different ideas.  I won't attempt to explain each since discovery is part of the fun, but suffice to say, a few plays will give you a sense of what its challenges are and whether one needs an unusual strategy.  In some instances the title may offer a clue.  In lots of instances there are notable hot spots or magnets, just begging you to claim them.
-
-In Peas & Carrots, as an example, and since most maps use heterogeneous areas, I wanted to explore the difficulty of building a position among homogeneous patches of terrain.
+Each map was built around an idea.  The title may offer a clue.  I won't attempt to explain each since discovery is part of the fun, but suffice to say a few plays will give you a sense of it.  In Peas & Carrots, as an example, and since most maps use heterogeneous areas, I wanted to explore the difficulty of building a position among homogeneous patches of terrain.
 
 In some of my earlier maps (i.e. Fjords) I made the pampas channels too narrow for placing watering holes.  The maps work but they offer a different kind of play.  In later maps, I loosened the pampas areas to make water useful again.
+
+Some maps have magnetic areas just begging you to claim them.  But how good are those positions, really?  That's the question!
 
 ## Asymmetrical
 ### Fjords
