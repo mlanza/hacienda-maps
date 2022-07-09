@@ -47,6 +47,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Eight
 [![Eight](images/eight.png)](Eight.haz)
 
+### Launch
+[![Launch](images/launch.png)](Launch.haz)
+
 ### Candy
 [![Candy](images/candy.png)](Candy.haz)
 
