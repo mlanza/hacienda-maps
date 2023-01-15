@@ -1,5 +1,5 @@
 # Hacienda Maps
-[Hacienda](https://boardgamegeek.com/boardgame/19100/hacienda) is a boardgame by Wolfgang Kramer.  It can be played on [Yucata](https://www.yucata.de/en) with custom maps.  These maps are custom crafted around unique challenges and available for your repeated exploration.
+[Hacienda](https://boardgamegeek.com/boardgame/19100/hacienda) is a boardgame by Wolfgang Kramer.  It can be played on [Yucata](https://www.yucata.de/en) or [SpielByWeb](http://www.spielbyweb.com) with custom maps.  These maps are custom crafted around unique challenges and available for your repeated exploration.
 
 Looking at each map you will get a sense of good player counts.  Just ask, if this were played with `n` players how would I feel if I were player `n`?  In the symmetrical maps it's a matter of whether the map is suitable for odd player counts.  Use your judgment.
 
