@@ -10,6 +10,12 @@ In some of my earlier maps (i.e. Fjords) I made the pampas channels too narrow f
 Some maps have magnetic areas just begging you to claim them.  But how good are those positions, really?  That's the question!
 
 ## Asymmetrical
+### Brave
+[![Brave](images/brave.png)](Brave.haz)
+
+### Outliers
+[![Outliers](images/outliers.png)](Outliers.haz)
+
 ### Fjords
 [![Fjords](images/fjords.png)](Fjords.haz)
 
