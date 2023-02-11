@@ -122,6 +122,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Everest
 [![Everest](images/everest.png)](Everest.haz)
 
+### Parcheesi
+[![Parcheesie](images/parcheesi.png)](Parcheesi.haz)
+
 ### Treasure Map
 [![Treasure Map](images/treasure-map.png)](TreasureMap.haz)
 
