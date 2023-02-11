@@ -126,7 +126,10 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 [![Everest](images/everest.png)](Everest.haz)
 
 ### Parcheesi
-[![Parcheesie](images/parcheesi.png)](Parcheesi.haz)
+[![Parcheesi](images/parcheesi.png)](Parcheesi.haz)
+
+### Church
+[![Church](images/church.png)](Church.haz)
 
 ### Treasure Map
 [![Treasure Map](images/treasure-map.png)](TreasureMap.haz)
