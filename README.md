@@ -13,6 +13,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Wayfinder
 [![Wayfinder](images/wayfinder.png)](Wayfinder.haz)
 
+### Exigent Circumstances
+[![Exigent Circumstances](images/exigent-circumstances.png)](ExigentCircumstances.haz)
+
 ### Hedgerow
 [![Hedgerow](images/hedgerow.png)](Hedgerow.haz)
 
