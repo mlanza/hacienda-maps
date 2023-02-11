@@ -37,6 +37,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Bryce
 [![Bryce](images/bryce.png)](Bryce.haz)
 
+### Great Divide
+[![Great Divide](images/great-divide.png)](GreatDivide.haz)
+
 ### Alternate Reality
 [![Alternate Reality](images/alternate-reality.png)](AlternateReality.haz)
 
