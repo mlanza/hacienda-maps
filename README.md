@@ -16,6 +16,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Stopgap
 [![Stopgap](images/stopgap.png)](Stopgap.haz)
 
+### Cinnamon
+[![Cinnamon](images/cinnamon.png)](Cinnamon.haz)
+
 ### Exigent Circumstances
 [![Exigent Circumstances](images/exigent-circumstances.png)](ExigentCircumstances.haz)
 
@@ -67,6 +70,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ## Semi-Symmetrical
 ### Hive
 [![Hive](images/hive.png)](Hive.haz)
+
+### Socket
+[![Socket](images/socket.png)](Socket.haz)
 
 ### Bullseye
 [![Bullseye](images/bullseye.png)](Bullseye.haz)
