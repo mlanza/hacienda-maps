@@ -37,11 +37,17 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Bryce
 [![Bryce](images/bryce.png)](Bryce.haz)
 
+### Alternate Reality
+[![Alternate Reality](images/alternate-reality.png)](AlternateReality.haz)
+
 ### Four Kingdoms
 [![Four Kingdoms](images/four-kingdoms.png)](FourKingdoms.haz)
 
 ### Four Kingdoms Redux
 [![Four Kingdoms Redux](images/four-kingdoms-redux.png)](FourKingdomsRedux.haz)
+
+### Four Worlds
+[![Four Worlds](images/four-worlds.png)](FourWorlds.haz)
 
 ### Cinco
 [![Cinco](images/cinco.png)](Cinco.haz)
