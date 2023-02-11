@@ -13,6 +13,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Wayfinder
 [![Wayfinder](images/wayfinder.png)](Wayfinder.haz)
 
+### Stopgap
+[![Stopgap](images/stopgap.png)](Stopgap.haz)
+
 ### Exigent Circumstances
 [![Exigent Circumstances](images/exigent-circumstances.png)](ExigentCircumstances.haz)
 
@@ -76,6 +79,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 
 ### Crosshair
 [![Crosshair](images/crosshair.png)](Crosshair.haz)
+
+### Plank
+[![Plank](images/plank.png)](Plank.haz)
 
 ### Eight
 [![Eight](images/eight.png)](Eight.haz)
