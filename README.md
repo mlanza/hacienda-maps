@@ -34,6 +34,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Fjords
 [![Fjords](images/fjords.png)](Fjords.haz)
 
+### Far Reaches
+[![Far Reaches](images/far-reaches.png)](FarReaches.haz)
+
 ### Bryce
 [![Bryce](images/bryce.png)](Bryce.haz)
 
