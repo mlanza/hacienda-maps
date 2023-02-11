@@ -63,7 +63,7 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 [![Hive](images/hive.png)](Hive.haz)
 
 ### Crosshair
-[![Crosshair](images/crosshari.png)](Crosshair.haz)
+[![Crosshair](images/crosshair.png)](Crosshair.haz)
 
 ### Eight
 [![Eight](images/eight.png)](Eight.haz)
