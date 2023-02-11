@@ -19,6 +19,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Cinnamon
 [![Cinnamon](images/cinnamon.png)](Cinnamon.haz)
 
+### Choking Tiger
+[![Choking Tiger](images/choking-tiger.png)](ChokingTiger.haz)
+
 ### Exigent Circumstances
 [![Exigent Circumstances](images/exigent-circumstances.png)](ExigentCircumstances.haz)
 
