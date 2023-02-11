@@ -62,6 +62,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Hive
 [![Hive](images/hive.png)](Hive.haz)
 
+### Bullseye
+[![Bullseye](images/bullseye.png)](Bullseye.haz)
+
 ### Crosshair
 [![Crosshair](images/crosshair.png)](Crosshair.haz)
 
