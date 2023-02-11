@@ -10,6 +10,12 @@ In some of my earlier maps (i.e. Fjords) I made the pampas channels too narrow f
 Some maps have magnetic areas just begging you to claim them.  But how good are those positions, really?  That's the question!
 
 ## Asymmetrical
+### Wayfinder
+[![Wayfinder](images/wayfinder.png)](Wayfinder.haz)
+
+### Hedgerow
+[![Hedgerow](images/hedgerow.png)](Hedgerow.haz)
+
 ### Brave
 [![Brave](images/brave.png)](Brave.haz)
 
@@ -31,28 +37,34 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Cinco
 [![Cinco](images/cinco.png)](Cinco.haz)
 
-## Twofer
+### Twofer
 [![Twofer](images/twofer.png)](Twofer.haz)
 
-## Bridge
+### Bridge
 [![Bridge](images/bridge.png)](Bridge.haz)
 
-## Peas and Carrots
+### Peas and Carrots
 [![Peas and Carrots](images/peas-and-carrots.png)](PeasAndCarrots.haz)
 
-## Bait
+### Bait
 [![Bait](images/bait.png)](Bait.haz)
 
-## Slalom
+### Slalom
 [![Slalom](images/slalom.png)](Slalom.haz)
 
-## River
+### River
 [![River](images/river.png)](River.haz)
 
-## Bonanza
+### Bonanza
 [![Bonanza](images/bonanza.png)](Bonanza.haz)
 
 ## Semi-Symmetrical
+### Hive
+[![Hive](images/hive.png)](Hive.haz)
+
+### Crosshair
+[![Crosshair](images/crosshari.png)](Crosshair.haz)
+
 ### Eight
 [![Eight](images/eight.png)](Eight.haz)
 
@@ -77,10 +89,10 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Asteroids
 [![Asteroids](images/asteroids.png)](Asteroids.haz)
 
-## Duel
+### Duel
 [![Duel](images/duel.png)](Duel.haz)
 
-## Butterfly
+### Butterfly
 [![Butterfly](images/butterfly.png)](Butterfly.haz)
 
 ## License
