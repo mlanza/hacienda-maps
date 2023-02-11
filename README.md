@@ -80,6 +80,15 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Picture Frame
 [![Picture Frame](images/picture-frame.png)](PictureFrame.haz)
 
+### Reference Pear
+[![Reference Pear](images/reference-pear.png)](ReferencePear.haz)
+
+### Triad
+[![Triad](images/triad.png)](Triad.haz)
+
+### Files
+[![Files](images/files.png)](Files.haz)
+
 ### Elemental
 [![Elemental](images/elemental.png)](Elemental.haz)
 
