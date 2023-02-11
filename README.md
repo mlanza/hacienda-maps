@@ -71,6 +71,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Picture Frame
 [![Picture Frame](images/picture-frame.png)](PictureFrame.haz)
 
+### Elemental
+[![Elemental](images/elemental.png)](Elemental.haz)
+
 ### Crosshair
 [![Crosshair](images/crosshair.png)](Crosshair.haz)
 
