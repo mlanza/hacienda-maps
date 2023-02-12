@@ -140,6 +140,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Honey
 [![Honey](images/honey.png)](Honey.haz)
 
+### Sand
+[![Sand](images/sand.png)](Sand.haz)
+
 ### Asteroids
 [![Asteroids](images/asteroids.png)](Asteroids.haz)
 
