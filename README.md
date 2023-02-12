@@ -86,6 +86,9 @@ Some maps have magnetic areas just begging you to claim them.  But how good are 
 ### Hive
 [![Hive](images/hive.png)](Hive.haz)
 
+### Zion
+[![Zion](images/zion.png)](Zion.haz)
+
 ### Socket
 [![Socket](images/socket.png)](Socket.haz)
 
