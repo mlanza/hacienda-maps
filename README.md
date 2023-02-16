@@ -75,6 +75,9 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 ### River
 [![River](images/river.png)](River.haz)
 
+### Bitter Root
+[![Bitter Root](images/bitter-root.png)](BitterRoot.haz)
+
 ### Bonanza
 [![Bonanza](images/bonanza.png)](Bonanza.haz)
 
