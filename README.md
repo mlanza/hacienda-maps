@@ -82,6 +82,9 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 ### Hive
 [![Hive](images/hive.png)](Hive.haz)
 
+### Milky Way
+[![Milky Way](images/milky-way.png)](MilkyWay.haz)
+
 ### Comb
 [![Comb](images/comb.png)](Comb.haz)
 
