@@ -6,6 +6,9 @@ The following maps were built to explore a variety of challenges.  Looking at ea
 Each map presents an idea.  Its title may offer a clue.  I won't attempt to explain each since discovery is part of the fun, but suffice to say playing is learning.
 
 ## Asymmetrical
+### Pens
+[![Pens](images/pens.png)](Pens.haz)
+
 ### Wayfinder
 [![Wayfinder](images/wayfinder.png)](Wayfinder.haz)
 
@@ -78,6 +81,9 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 ## Semi-Symmetrical
 ### Hive
 [![Hive](images/hive.png)](Hive.haz)
+
+### Comb
+[![Comb](images/comb.png)](Comb.haz)
 
 ### Diamond Mine
 [![Diamond Mine](images/diamond-mine.png)](DiamondMine.haz)
