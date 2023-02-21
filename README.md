@@ -85,6 +85,15 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 ### Hive
 [![Hive](images/hive.png)](Hive.haz)
 
+### Diamond Mine
+[![Diamond Mine](images/diamond-mine.png)](DiamondMine.haz)
+
+### Irrigate
+[![Irrigate](images/irrigate.png)](Irrigate.haz)
+
+### Sun
+[![Sun](images/sun.png)](Sun.haz)
+
 ### Zion
 [![Zion](images/zion.png)](Zion.haz)
 
