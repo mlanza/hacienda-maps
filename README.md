@@ -18,12 +18,6 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 ### Choking Tiger
 [![Choking Tiger](images/choking-tiger.png)](ChokingTiger.haz)
 
-### Exigent Circumstances
-[![Exigent Circumstances](images/exigent-circumstances.png)](ExigentCircumstances.haz)
-
-### Hedgerow
-[![Hedgerow](images/hedgerow.png)](Hedgerow.haz)
-
 ### Brave
 [![Brave](images/brave.png)](Brave.haz)
 
