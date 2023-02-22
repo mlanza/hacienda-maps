@@ -97,6 +97,9 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 ### Sun
 [![Sun](images/sun.png)](Sun.haz)
 
+### Ararat
+[![Ararat](images/ararat.png)](Ararat.haz)
+
 ### Zion
 [![Zion](images/zion.png)](Zion.haz)
 
