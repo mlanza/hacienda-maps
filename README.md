@@ -6,6 +6,9 @@ The following maps were built to explore a variety of challenges.  Looking at ea
 Each map presents an idea.  Its title may offer a clue.  I won't attempt to explain each since discovery is part of the fun, but suffice to say playing is learning.
 
 ## Asymmetrical
+### Dorm
+[![Dorm](images/dorm.png)](Dorm.haz)
+
 ### Pens
 [![Pens](images/pens.png)](Pens.haz)
 
