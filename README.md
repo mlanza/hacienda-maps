@@ -79,6 +79,9 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 [![Bonanza](images/bonanza.png)](Bonanza.haz)
 
 ## Semi-Symmetrical
+### Yin & Yang
+[![Yin & Yang](images/yin-yang.png)](YinYang.haz)
+
 ### Hive
 [![Hive](images/hive.png)](Hive.haz)
 
