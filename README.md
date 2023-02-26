@@ -82,6 +82,9 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 [![Bonanza](images/bonanza.png)](Bonanza.haz)
 
 ## Semi-Symmetrical
+### Wat
+[![Wat](images/wat.png)](Wat.haz)
+
 ### Yin & Yang
 [![Yin & Yang](images/yin-yang.png)](YinYang.haz)
 
