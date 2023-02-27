@@ -84,6 +84,9 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 ### Bonanza
 [![Bonanza](images/bonanza.png)](Bonanza.haz)
 
+### Seed
+[![Seed](images/seed.png)](Seed.haz)
+
 ## Semi-Symmetrical
 ### Clover
 [![Clover](images/clover.png)](Clover.haz)
