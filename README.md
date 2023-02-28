@@ -78,6 +78,9 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 ### River
 [![River](images/river.png)](River.haz)
 
+### Flank Steak
+[![Flank Steak](images/flank-steak.png)](FlankSteak.haz)
+
 ### Bitter Root
 [![Bitter Root](images/bitter-root.png)](BitterRoot.haz)
 
