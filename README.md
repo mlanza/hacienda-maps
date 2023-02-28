@@ -91,6 +91,15 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 [![Seed](images/seed.png)](Seed.haz)
 
 ## Semi-Symmetrical
+### Tetons
+[![Tetons](images/tetons.png)](Tetons.haz)
+
+### Ginger Chew
+[![Ginger Chew](images/ginger-chew.png)](GingerChew.haz)
+
+### Specs
+[![Specs](images/specs.png)](Specs.haz)
+
 ### Clover
 [![Clover](images/clover.png)](Clover.haz)
 
