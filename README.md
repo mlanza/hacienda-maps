@@ -1,52 +1,99 @@
 # Hacienda Maps
 [Hacienda](https://boardgamegeek.com/boardgame/19100/hacienda) is a boardgame by Wolfgang Kramer.  It can be played on [Yucata](https://www.yucata.de/en) or [SpielByWeb](http://www.spielbyweb.com) with custom maps.
 
-The following maps were built to explore a variety of challenges.  Looking at each you will get a sense of good player counts.  Just ask, if this were played with `n` players how would I feel if I were player `n`?  In the symmetrical maps it's a matter of whether the map is suitable for odd player counts.  Use your judgment.
+The following maps were built to explore a variety of challenges.  Looking at each you will get a sense of good player counts.  Just ask, if this were played with `n` players how would I feel if I were player `n`?  Use your judgment.
 
-Each map presents an idea.  Its title may offer a clue.  I won't attempt to explain each since discovery is part of the fun, but suffice to say playing is learning.
+The maps explore various ideas.  The titles may offer clues.  I won't attempt to explain each since discovery is part of the fun, but suffice to say playing is learning.
 
-## Asymmetrical
-### Dorm
-[![Dorm](images/dorm.png)](Dorm.haz)
+### Alternate Reality
+[![Alternate Reality](images/alternate-reality.png)](AlternateReality.haz)
 
-### One Two Three
-[![One Two Three](images/123.png)](123.haz)
+### Ararat
+[![Ararat](images/ararat.png)](Ararat.haz)
 
-### Pens
-[![Pens](images/pens.png)](Pens.haz)
+### Asteroids
+[![Asteroids](images/asteroids.png)](Asteroids.haz)
 
-### Wayfinder
-[![Wayfinder](images/wayfinder.png)](Wayfinder.haz)
+### Bait
+[![Bait](images/bait.png)](Bait.haz)
 
-### Stopgap
-[![Stopgap](images/stopgap.png)](Stopgap.haz)
+### Bitter Root
+[![Bitter Root](images/bitter-root.png)](BitterRoot.haz)
 
-### Cinnamon
-[![Cinnamon](images/cinnamon.png)](Cinnamon.haz)
-
-### Choking Tiger
-[![Choking Tiger](images/choking-tiger.png)](ChokingTiger.haz)
+### Bonanza
+[![Bonanza](images/bonanza.png)](Bonanza.haz)
 
 ### Brave
 [![Brave](images/brave.png)](Brave.haz)
 
-### Outliers
-[![Outliers](images/outliers.png)](Outliers.haz)
-
-### Fjords
-[![Fjords](images/fjords.png)](Fjords.haz)
-
-### Far Reaches
-[![Far Reaches](images/far-reaches.png)](FarReaches.haz)
+### Bridge
+[![Bridge](images/bridge.png)](Bridge.haz)
 
 ### Bryce
 [![Bryce](images/bryce.png)](Bryce.haz)
 
-### Great Divide
-[![Great Divide](images/great-divide.png)](GreatDivide.haz)
+### Bull Market
+[![Bull Market](images/bull-market.png)](BullMarket.haz)
 
-### Alternate Reality
-[![Alternate Reality](images/alternate-reality.png)](AlternateReality.haz)
+### Bullseye
+[![Bullseye](images/bullseye.png)](Bullseye.haz)
+
+### Butterfly
+[![Butterfly](images/butterfly.png)](Butterfly.haz)
+
+### Candy
+[![Candy](images/candy.png)](Candy.haz)
+
+### Choking Tiger
+[![Choking Tiger](images/choking-tiger.png)](ChokingTiger.haz)
+
+### Church
+[![Church](images/church.png)](Church.haz)
+
+### Cinco
+[![Cinco](images/cinco.png)](Cinco.haz)
+
+### Cinnamon
+[![Cinnamon](images/cinnamon.png)](Cinnamon.haz)
+
+### Clover
+[![Clover](images/clover.png)](Clover.haz)
+
+### Comb
+[![Comb](images/comb.png)](Comb.haz)
+
+### Crosshair
+[![Crosshair](images/crosshair.png)](Crosshair.haz)
+
+### Diamond Mine
+[![Diamond Mine](images/diamond-mine.png)](DiamondMine.haz)
+
+### Dorm
+[![Dorm](images/dorm.png)](Dorm.haz)
+
+### Duel
+[![Duel](images/duel.png)](Duel.haz)
+
+### Eight
+[![Eight](images/eight.png)](Eight.haz)
+
+### Elemental
+[![Elemental](images/elemental.png)](Elemental.haz)
+
+### Everest
+[![Everest](images/everest.png)](Everest.haz)
+
+### Far Reaches
+[![Far Reaches](images/far-reaches.png)](FarReaches.haz)
+
+### Files
+[![Files](images/files.png)](Files.haz)
+
+### Fjords
+[![Fjords](images/fjords.png)](Fjords.haz)
+
+### Flank Steak
+[![Flank Steak](images/flank-steak.png)](FlankSteak.haz)
 
 ### Four Kingdoms
 [![Four Kingdoms](images/four-kingdoms.png)](FourKingdoms.haz)
@@ -57,150 +104,101 @@ Each map presents an idea.  Its title may offer a clue.  I won't attempt to expl
 ### Four Worlds
 [![Four Worlds](images/four-worlds.png)](FourWorlds.haz)
 
-### Cinco
-[![Cinco](images/cinco.png)](Cinco.haz)
-
-### Twofer
-[![Twofer](images/twofer.png)](Twofer.haz)
-
-### Bridge
-[![Bridge](images/bridge.png)](Bridge.haz)
-
-### Peas and Carrots
-[![Peas and Carrots](images/peas-and-carrots.png)](PeasAndCarrots.haz)
-
-### Bait
-[![Bait](images/bait.png)](Bait.haz)
-
-### Slalom
-[![Slalom](images/slalom.png)](Slalom.haz)
-
-### River
-[![River](images/river.png)](River.haz)
-
-### Flank Steak
-[![Flank Steak](images/flank-steak.png)](FlankSteak.haz)
-
-### Bitter Root
-[![Bitter Root](images/bitter-root.png)](BitterRoot.haz)
-
-### Bonanza
-[![Bonanza](images/bonanza.png)](Bonanza.haz)
-
-### Seed
-[![Seed](images/seed.png)](Seed.haz)
-
-## Semi-Symmetrical
-### Tetons
-[![Tetons](images/tetons.png)](Tetons.haz)
-
-### U-Turn
-[![U-Turn](images/u-turn.png)](UTurn.haz)
-
 ### Ginger Chew
 [![Ginger Chew](images/ginger-chew.png)](GingerChew.haz)
 
-### Specs
-[![Specs](images/specs.png)](Specs.haz)
-
-### Clover
-[![Clover](images/clover.png)](Clover.haz)
-
-### Wat
-[![Wat](images/wat.png)](Wat.haz)
-
-### Yin & Yang
-[![Yin & Yang](images/yin-yang.png)](YinYang.haz)
+### Great Divide
+[![Great Divide](images/great-divide.png)](GreatDivide.haz)
 
 ### Hive
 [![Hive](images/hive.png)](Hive.haz)
 
-### Milky Way
-[![Milky Way](images/milky-way.png)](MilkyWay.haz)
-
-### Comb
-[![Comb](images/comb.png)](Comb.haz)
-
-### Diamond Mine
-[![Diamond Mine](images/diamond-mine.png)](DiamondMine.haz)
+### Honey
+[![Honey](images/honey.png)](Honey.haz)
 
 ### Irrigate
 [![Irrigate](images/irrigate.png)](Irrigate.haz)
 
-### Sun
-[![Sun](images/sun.png)](Sun.haz)
-
-### Ararat
-[![Ararat](images/ararat.png)](Ararat.haz)
-
-### Zion
-[![Zion](images/zion.png)](Zion.haz)
-
-### Socket
-[![Socket](images/socket.png)](Socket.haz)
-
-### Bullseye
-[![Bullseye](images/bullseye.png)](Bullseye.haz)
-
-### Picture Frame
-[![Picture Frame](images/picture-frame.png)](PictureFrame.haz)
-
-### Reference Pear
-[![Reference Pear](images/reference-pear.png)](ReferencePear.haz)
-
-### Triad
-[![Triad](images/triad.png)](Triad.haz)
-
-### Files
-[![Files](images/files.png)](Files.haz)
-
-### Elemental
-[![Elemental](images/elemental.png)](Elemental.haz)
-
-### Crosshair
-[![Crosshair](images/crosshair.png)](Crosshair.haz)
-
-### Plank
-[![Plank](images/plank.png)](Plank.haz)
-
-### Eight
-[![Eight](images/eight.png)](Eight.haz)
-
 ### Launch
 [![Launch](images/launch.png)](Launch.haz)
 
-### Candy
-[![Candy](images/candy.png)](Candy.haz)
+### Milky Way
+[![Milky Way](images/milky-way.png)](MilkyWay.haz)
 
-### Everest
-[![Everest](images/everest.png)](Everest.haz)
+### One Two Three
+[![One Two Three](images/123.png)](123.haz)
+
+### Outliers
+[![Outliers](images/outliers.png)](Outliers.haz)
 
 ### Parcheesi
 [![Parcheesi](images/parcheesi.png)](Parcheesi.haz)
 
-### Church
-[![Church](images/church.png)](Church.haz)
+### Peas and Carrots
+[![Peas and Carrots](images/peas-and-carrots.png)](PeasAndCarrots.haz)
 
-### Treasure Map
-[![Treasure Map](images/treasure-map.png)](TreasureMap.haz)
+### Pens
+[![Pens](images/pens.png)](Pens.haz)
 
-### Bull Market
-[![Bull Market](images/bull-market.png)](BullMarket.haz)
+### Picture Frame
+[![Picture Frame](images/picture-frame.png)](PictureFrame.haz)
 
-### Honey
-[![Honey](images/honey.png)](Honey.haz)
+### Plank
+[![Plank](images/plank.png)](Plank.haz)
+
+### Reference Pear
+[![Reference Pear](images/reference-pear.png)](ReferencePear.haz)
+
+### River
+[![River](images/river.png)](River.haz)
 
 ### Sand
 [![Sand](images/sand.png)](Sand.haz)
 
-### Asteroids
-[![Asteroids](images/asteroids.png)](Asteroids.haz)
+### Seed
+[![Seed](images/seed.png)](Seed.haz)
 
-### Duel
-[![Duel](images/duel.png)](Duel.haz)
+### Slalom
+[![Slalom](images/slalom.png)](Slalom.haz)
 
-### Butterfly
-[![Butterfly](images/butterfly.png)](Butterfly.haz)
+### Socket
+[![Socket](images/socket.png)](Socket.haz)
+
+### Specs
+[![Specs](images/specs.png)](Specs.haz)
+
+### Stopgap
+[![Stopgap](images/stopgap.png)](Stopgap.haz)
+
+### Sun
+[![Sun](images/sun.png)](Sun.haz)
+
+### Tetons
+[![Tetons](images/tetons.png)](Tetons.haz)
+
+### Treasure Map
+[![Treasure Map](images/treasure-map.png)](TreasureMap.haz)
+
+### Triad
+[![Triad](images/triad.png)](Triad.haz)
+
+### Twofer
+[![Twofer](images/twofer.png)](Twofer.haz)
+
+### U-Turn
+[![U-Turn](images/u-turn.png)](UTurn.haz)
+
+### Wat
+[![Wat](images/wat.png)](Wat.haz)
+
+### Wayfinder
+[![Wayfinder](images/wayfinder.png)](Wayfinder.haz)
+
+### Yin & Yang
+[![Yin & Yang](images/yin-yang.png)](YinYang.haz)
+
+### Zion
+[![Zion](images/zion.png)](Zion.haz)
 
 ## License
 [![CC BY 4.0][cc-by-shield]][cc-by]
