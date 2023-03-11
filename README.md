@@ -35,6 +35,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Bull Market
 [![Bull Market](images/bull-market.png)](BullMarket.haz)
 
+### Bullets
+[![Bullets](images/bullets.png)](Bullets.haz)
+
 ### Bullseye
 [![Bullseye](images/bullseye.png)](Bullseye.haz)
 
