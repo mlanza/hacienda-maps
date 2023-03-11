@@ -140,6 +140,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Parcheesi
 [![Parcheesi](images/parcheesi.png)](Parcheesi.haz)
 
+### Peachy
+[![Peachy](images/peachy.png)](Peachy.haz)
+
 ### Peas and Carrots
 [![Peas and Carrots](images/peas-and-carrots.png)](PeasAndCarrots.haz)
 
