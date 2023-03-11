@@ -107,6 +107,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Ginger Chew
 [![Ginger Chew](images/ginger-chew.png)](GingerChew.haz)
 
+### Grade
+[![Grade](images/grade.png)](Grade.haz)
+
 ### Great Divide
 [![Great Divide](images/great-divide.png)](GreatDivide.haz)
 
@@ -163,6 +166,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 
 ### Socket
 [![Socket](images/socket.png)](Socket.haz)
+
+### Sound Barrier
+[![Sound Barrier](images/sound-barrier.png)](SoundBarrier.haz)
 
 ### Specs
 [![Specs](images/specs.png)](Specs.haz)
