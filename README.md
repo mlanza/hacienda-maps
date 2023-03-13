@@ -5,6 +5,9 @@ The following maps were built to explore a variety of challenges.  Looking at ea
 
 The maps explore various ideas.  The titles may offer clues.  I won't attempt to explain each since discovery is part of the fun, but suffice to say playing is learning.
 
+### Adullam
+[![Adullam](images/adullam.png)](Adullam.haz)
+
 ### Alternate Reality
 [![Alternate Reality](images/alternate-reality.png)](AlternateReality.haz)
 
