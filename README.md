@@ -68,8 +68,14 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Comb
 [![Comb](images/comb.png)](Comb.haz)
 
+### Courtyard
+[![Courtyard](images/courtyard.png)](Courtyard.haz)
+
 ### Crosshair
 [![Crosshair](images/crosshair.png)](Crosshair.haz)
+
+### Delve
+[![Delve](images/delve.png)](Delve.haz)
 
 ### Diamond Mine
 [![Diamond Mine](images/diamond-mine.png)](DiamondMine.haz)
@@ -133,6 +139,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 
 ### Milky Way
 [![Milky Way](images/milky-way.png)](MilkyWay.haz)
+
+### Moat
+[![Moat](images/moat.png)](Moat.haz)
 
 ### One Two Three
 [![One Two Three](images/123.png)](123.haz)
