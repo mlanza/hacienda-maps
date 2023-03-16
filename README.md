@@ -137,6 +137,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Launch
 [![Launch](images/launch.png)](Launch.haz)
 
+### Masis
+[![Masis](images/masis.png)](Masis.haz)
+
 ### Milky Way
 [![Milky Way](images/milky-way.png)](MilkyWay.haz)
 
