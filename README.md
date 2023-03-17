@@ -23,6 +23,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Bitter Root
 [![Bitter Root](images/bitter-root.png)](BitterRoot.haz)
 
+### Boing
+[![Boing](images/boing.png)](Boing.haz)
+
 ### Bonanza
 [![Bonanza](images/bonanza.png)](Bonanza.haz)
 
