@@ -50,6 +50,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Candy
 [![Candy](images/candy.png)](Candy.haz)
 
+### Capsule
+[![Capsule](images/capsule.png)](Capsule.haz)
+
 ### Choking Tiger
 [![Choking Tiger](images/choking-tiger.png)](ChokingTiger.haz)
 
