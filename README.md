@@ -206,6 +206,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Sun
 [![Sun](images/sun.png)](Sun.haz)
 
+### Swimlane
+[![Swimlane](images/swimlane.png)](Swimlane.haz)
+
 ### Tetons
 [![Tetons](images/tetons.png)](Tetons.haz)
 
