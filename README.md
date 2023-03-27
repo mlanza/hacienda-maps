@@ -236,6 +236,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Why
 [![Why](images/why.png)](Why.haz)
 
+### Wreath
+[![Wreath](images/wreath.png)](Wreath.haz)
+
 ### Yin & Yang
 [![Yin & Yang](images/yin-yang.png)](YinYang.haz)
 
