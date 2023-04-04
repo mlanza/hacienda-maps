@@ -239,9 +239,6 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Wreath
 [![Wreath](images/wreath.png)](Wreath.haz)
 
-### Yin & Yang
-[![Yin & Yang](images/yin-yang.png)](YinYang.haz)
-
 ### Zion
 [![Zion](images/zion.png)](Zion.haz)
 
