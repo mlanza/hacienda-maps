@@ -191,6 +191,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Sand
 [![Sand](images/sand.png)](Sand.haz)
 
+### Seaweed
+[![Seaweed](images/seaweed.png)](Seaweed.haz)
+
 ### Seed
 [![Seed](images/seed.png)](Seed.haz)
 
