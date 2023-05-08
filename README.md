@@ -125,6 +125,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Ginger Chew
 [![Ginger Chew](images/ginger-chew.png)](GingerChew.haz)
 
+### Goldsmith
+[![Goldsmith](images/goldsmith.png)](Goldsmith.haz)
+
 ### Grade
 [![Grade](images/grade.png)](Grade.haz)
 
@@ -226,9 +229,6 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 
 ### U-Turn
 [![U-Turn](images/u-turn.png)](UTurn.haz)
-
-### Wat
-[![Wat](images/wat.png)](Wat.haz)
 
 ### Wayfinder
 [![Wayfinder](images/wayfinder.png)](Wayfinder.haz)
