@@ -143,6 +143,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Irrigate
 [![Irrigate](images/irrigate.png)](Irrigate.haz)
 
+### Knife Fight
+[![Knife Fight](images/knife-fight.png)](KnifeFight.haz)
+
 ### Launch
 [![Launch](images/launch.png)](Launch.haz)
 
