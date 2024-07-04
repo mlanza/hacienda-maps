@@ -5,9 +5,6 @@ The following maps were built to explore a variety of challenges.  Looking at ea
 
 The maps explore various ideas.  The titles may offer clues.  I won't attempt to explain each since discovery is part of the fun, but suffice to say playing is learning.
 
-### Adullam
-[![Adullam](images/adullam.png)](Adullam.haz)
-
 ### Alternate Reality
 [![Alternate Reality](images/alternate-reality.png)](AlternateReality.haz)
 
@@ -53,9 +50,6 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Candy
 [![Candy](images/candy.png)](Candy.haz)
 
-### Capsule
-[![Capsule](images/capsule.png)](Capsule.haz)
-
 ### Cherry Blossoms
 [![Cherry Blossoms](images/cherry-blossoms.png)](CherryBlossoms.haz)
 
@@ -71,17 +65,11 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Clover
 [![Clover](images/clover.png)](Clover.haz)
 
-### Comb
-[![Comb](images/comb.png)](Comb.haz)
-
 ### Courtyard
 [![Courtyard](images/courtyard.png)](Courtyard.haz)
 
 ### Crosshair
 [![Crosshair](images/crosshair.png)](Crosshair.haz)
-
-### Delve
-[![Delve](images/delve.png)](Delve.haz)
 
 ### Diamond Mine
 [![Diamond Mine](images/diamond-mine.png)](DiamondMine.haz)
@@ -151,9 +139,6 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 
 ### Launch
 [![Launch](images/launch.png)](Launch.haz)
-
-### Masis
-[![Masis](images/masis.png)](Masis.haz)
 
 ### Milky Way
 [![Milky Way](images/milky-way.png)](MilkyWay.haz)
@@ -251,17 +236,11 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Twofer
 [![Twofer](images/twofer.png)](Twofer.haz)
 
-### U-Turn
-[![U-Turn](images/u-turn.png)](UTurn.haz)
-
 ### Veins
 [![Veins](images/veins.png)](Veins.haz)
 
 ### Wayfinder
 [![Wayfinder](images/wayfinder.png)](Wayfinder.haz)
-
-### Why
-[![Why](images/why.png)](Why.haz)
 
 ### Wreath
 [![Wreath](images/wreath.png)](Wreath.haz)
