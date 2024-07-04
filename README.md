@@ -56,8 +56,8 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Capsule
 [![Capsule](images/capsule.png)](Capsule.haz)
 
-### Choking Tiger
-[![Choking Tiger](images/choking-tiger.png)](ChokingTiger.haz)
+### Cherry Blossoms
+[![Cherry Blossoms](images/cherry-blossoms.png)](CherryBlossoms.haz)
 
 ### Church
 [![Church](images/church.png)](Church.haz)
@@ -91,6 +91,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 
 ### Duel
 [![Duel](images/duel.png)](Duel.haz)
+
+### Editorial
+[![Editorial](images/editorial.png)](Editorial.haz)
 
 ### Eight
 [![Eight](images/eight.png)](Eight.haz)
@@ -158,11 +161,17 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Moat
 [![Moat](images/moat.png)](Moat.haz)
 
+### No Reservation
+[![No Reservation](images/no-reservation.png)](NoReservation.haz)
+
 ### One Two Three
 [![One Two Three](images/123.png)](123.haz)
 
 ### Outliers
 [![Outliers](images/outliers.png)](Outliers.haz)
+
+### Parallax
+[![Parallax](images/parallax.png)](Parallax.haz)
 
 ### Parcheesi
 [![Parcheesi](images/parcheesi.png)](Parcheesi.haz)
@@ -185,6 +194,12 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Plank
 [![Plank](images/plank.png)](Plank.haz)
 
+### Questron
+[![Questron](images/questron.png)](Questron.haz)
+
+### Rain
+[![Rain](images/rain.png)](Rain.haz)
+
 ### Reference Pear
 [![Reference Pear](images/reference-pear.png)](ReferencePear.haz)
 
@@ -199,6 +214,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 
 ### Seed
 [![Seed](images/seed.png)](Seed.haz)
+
+### Sifted
+[![Sifted](images/sifted.png)](Sifted.haz)
 
 ### Slalom
 [![Slalom](images/slalom.png)](Slalom.haz)
@@ -235,6 +253,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 
 ### U-Turn
 [![U-Turn](images/u-turn.png)](UTurn.haz)
+
+### Veins
+[![Veins](images/veins.png)](Veins.haz)
 
 ### Wayfinder
 [![Wayfinder](images/wayfinder.png)](Wayfinder.haz)
