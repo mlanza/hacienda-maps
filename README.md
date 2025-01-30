@@ -134,6 +134,9 @@ The maps explore various ideas.  The titles may offer clues.  I won't attempt to
 ### Irrigate
 [![Irrigate](images/irrigate.png)](Irrigate.haz)
 
+### Jelly Donut
+[![Jelly Donut](images/jelly-donut.png)](JellyDonut.haz)
+
 ### Knife Fight
 [![Knife Fight](images/knife-fight.png)](KnifeFight.haz)
 
